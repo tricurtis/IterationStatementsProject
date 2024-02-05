@@ -60,7 +60,7 @@ namespace IterationStatements
             // Decrement i by 1
                 for (int i = 199; i <=numbers.Count && i >= 0; i--) 
                 {
-                    Console.WriteLine($"{numbers[199]}");
+                    Console.WriteLine($"{numbers[i]}");
                 }
 
             //------------End of exercise
